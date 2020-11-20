@@ -1,3 +1,4 @@
+use std::ops::Sub;
 struct Point<T>{
     x: T,
     y: T,
